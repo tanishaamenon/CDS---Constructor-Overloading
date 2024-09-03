@@ -63,7 +63,7 @@ int main()
 
 **Outputs:**  <br>
 <br>
-![exp12a output](https://github.com/tanishaamenon/CDS---Constructors/blob/main/exp12a.JPG) <br>
+![exp13 output](https://github.com/tanishaamenon/CDS---Constructor-Overloading/blob/main/exp13.JPG) <br>
 <br>
 
 **Conclusion:** <br>
